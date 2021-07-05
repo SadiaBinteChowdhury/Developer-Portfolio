@@ -1,9 +1,13 @@
 body{
     font-family: 'Otomanopee One', sans-serif;
+    margin-left: 40px;
 }
 h1{
     font-size: 70px;
 }
 .name{
     color: mediumvioletred;
+}
+.intro{
+    width: 50%;
 }
