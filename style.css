@@ -47,6 +47,7 @@ h4{
     margin-right: 5%;
     box-shadow: 10px 10px 20px darkgrey;
     border-radius: 20px;
+    margin-bottom: 200px;
 }
 #ful-dev{
     border-left: 10px solid;
@@ -62,4 +63,7 @@ h4{
     background-image: url(images/exp-bg.png);
     background-position: left;
     background-repeat: no-repeat;
+}
+footer p{
+    text-align: center;
 }
